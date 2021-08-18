@@ -1,4 +1,4 @@
-### Hi there, I'm Anurag - aka [anurag1199](https://anurag1199.github.io/) 👋
+### Hi there, I'm Anurag - aka [anurag1199](https://anurag1199.github.io/new-updated-cv/) 👋
 
 - 🎓 I’m currently a Computer Science student from India 🏡
 - 🌱 Currently mastering field of Full Stack Development 🕕
