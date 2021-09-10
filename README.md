@@ -1,6 +1,6 @@
 ### Hi there, I'm Anurag - aka [anurag1199](https://anurag1199.github.io/new-updated-cv/) 👋
 
-- 🎓 I’m currently a Computer Science student from India 🏡
+- 🎓 I’m currently a Computer Science Student from India 🏡
 - 🌱 Currently mastering field of Full Stack Development 🕕
 - 🥅 2021 Goals: Contribute more to Open Source projects 🚅
 - ⚡ Fun fact: I love to bulid beautiful and creative functional websites and web apps 💻
