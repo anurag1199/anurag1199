@@ -2,7 +2,7 @@
 
 - 🎓 I’m currently a Computer Science Student from India 🏡
 - 🌱 Currently mastering field of Full Stack Development 🕕
-- 🥅 2021 Goals: Contribute more to Open Source projects 🚅
+- 🥅 2022 Goals: Contribute more to Open Source projects 🚅
 - ⚡ Fun fact: I love to bulid beautiful and creative functional websites and web apps 💻
 
 ### Connect with me:
